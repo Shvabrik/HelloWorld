@@ -1,0 +1,16 @@
+DOCEXTENSIONS = ();
+LANGUAGE = English;
+LOCALIZABLE_FILES = {
+};
+PROJECTVERSION = 1.1;
+INSTALLDIR = "$(HOME)/bin";
+PROJECTTYPE = Tool;
+PROJECTNAME = HelloWorld;
+FILESTABLE = {
+    OTHER_SOURCES = (Makefile);
+    M_FILES = (HelloWorld_main.m);
+    OTHER_LIBS = (Foundation_s);
+    OTHER_LINKED = ();
+};
+GENERATEMAIN = YES;
+DOCICONFILES = ();
